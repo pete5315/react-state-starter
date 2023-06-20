@@ -1,3 +1,5 @@
+Lecture notes repo.
+
 # React State Starter
 
 To be setup for leacture, run:
